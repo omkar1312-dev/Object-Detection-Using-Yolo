@@ -1,0 +1,24 @@
+Flask
+torch
+transformers
+
+flask
+requests
+
+# YOLOv5 requirements
+matplotlib
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+seaborn
+pandas
+
+# Extras --------------------------------------
+ipython  # interactive notebook
+psutil  # system utilization
+thop
